@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Manuel Lugo
 
 ### 👨‍💻 About Me
-- 🌐 Tech Enthusiast | Android Developer | Backend Engineer
+- 🌐 Tech Enthusiast | Android Developer | Backend Developer
 - 🧑‍💻 Software Engineer
 - 📚 Currently learning: MVVM-C, RxSwift, SwiftUI
 - 🌍 Passionate about home automation, networking, and AI.
 
 ### 🛠️ Tech Stack
-- **Languages**: Java, Kotlin, Python
+- **Languages**: Kotlion, Java 
 - **Mobile Development**: Android (Jetpack Compose, XML, Kotlin Coroutines, Dependency Injection)
 - **Backend**: Spring Boot
 - **Tools**: Git, Firebase
