@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Manuel Lugo
 
-<!--
-**manuellugodev/manuellugodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🌐 Tech Enthusiast | Android Developer | Backend Engineer
+- 🧑‍💻 Software Engineer
+- 📚 Currently learning: MVVM-C, RxSwift, SwiftUI
+- 🌍 Passionate about home automation, networking, and AI.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages**: Java, Kotlin, Python
+- **Mobile Development**: Android (Jetpack Compose, XML, Kotlin Coroutines, Dependency Injection)
+- **Backend**: Spring Boot
+- **Tools**: Git, Firebase
+- **Other Skills**: Clean Architecture, Reactive Programming, Android Jetpack Libraries (Room, Navigation, ViewModel, LiveData), Retrofit, Dagger, Hilt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- 🌐 [Website](https://www.manuellugo.dev)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/manuellugodev/)
+- 📸 [Instagram](https://www.instagram.com/manuellugo.dev)
+
+### 🏆 Fun Facts
+- 🎮 Gamer and tech enthusiast.
+- 🌟 Always curious about global technology trends.
+- 🤖 Exploring AI and chatbot development for real-world applications.
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect. 😊
+
